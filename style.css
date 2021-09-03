@@ -1,0 +1,31 @@
+h1 {
+    color: #8ECAE6;
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+body {
+    text-align: center;
+    background-image: url(img/tree.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#line1 {
+    width:auto;
+    border:1px solid gray;
+    margin-top:3px;
+}
+
+#funnyphoto {
+    text-align:center;
+    display: block;
+    padding: 30px 60px;
+    font-size: 50px;
+    color: orange;
+    background-color: paleturquoise;
+    
+}
