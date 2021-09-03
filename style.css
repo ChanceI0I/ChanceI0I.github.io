@@ -22,10 +22,11 @@ body {
 
 #funnyphoto {
     text-align:center;
-    display: block;
+    display: inline-block;
     padding: 30px 60px;
     font-size: 50px;
-    color: orange;
     background-color: paleturquoise;
+    cursor: pointer;
+    border:none;
     
 }
