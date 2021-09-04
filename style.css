@@ -20,14 +20,18 @@ body {
     margin-top:3px;
 }
 
+
 #funnyphoto {
     text-align:center;
     display: inline-block;
-    padding: 30px 60px;
+    padding: 40px 60px;
     font-size: 50px;
-    background-color: paleturquoise;
-    cursor: pointer;
-    border:none;
-    margin-top:100px;
+    transition-duration: 0.3s;
+    margin: 40px 20px;
     
+}
+
+#funnyphoto:hover{
+    font-size: 150%;
+    background-color: rgb(30, 138, 210);
 }
