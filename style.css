@@ -3,10 +3,10 @@ h1 {
     font-size: 40px;
     font-weight: 500;
     margin-top: 20px;
+    text-align: center;
 }
 
 body {
-    text-align: center;
     background-image: url(img/tree.jpg);
     background-size:cover;
     background-repeat:no-repeat;
@@ -15,24 +15,46 @@ body {
 }
 
 #line1 {
-    width:auto;
+    width:100%;
     border:1px solid gray;
     margin-top:3px;
 }
 
 
-#funnyphoto {
+button {
+    border: 1px solid black;
     text-align:center;
     display: inline-block;
-    padding: 20px 45px;
-    font-size: 50px;
+    font-size: 15px;
     transition-duration: 0.3s;
-    margin: 40px 20px;
-    
+    border-radius: 25px;
+    background-color: black; 
 }
 
-#funnyphoto:hover{
-     
+
+
+h2{
+    color: #A8DADC;
     font-size: 150px;
-    background-color: rgb(30, 138, 210);
+    padding: 20px 20px;
+    margin-top: auto;
 }
+
+#cal {
+    background-color: #31587A;
+    padding: 40px 60px;
+    text-align: center;
+    font-size: 40px;
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+#cal:hover {
+    background-color: cornflowerblue;
+    font-size: 70px;
+}
+
+
+
+  
+
