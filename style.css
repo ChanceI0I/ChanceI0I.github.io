@@ -23,6 +23,7 @@ body {
 
 button {
     border: 1px solid black;
+    text-align:center;
     display: inline-block;
     font-size: 15px;
     transition-duration: 0.3s;
@@ -42,6 +43,7 @@ h2{
 #cal {
     background-color: #31587A;
     padding: 40px 60px;
+    text-align: center;
     font-size: 40px;
     cursor: pointer;
     margin-left: 50px;
