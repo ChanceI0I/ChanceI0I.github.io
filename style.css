@@ -1,60 +1,46 @@
-h1 {
-    color: #8ECAE6;
-    font-size: 40px;
-    font-weight: 500;
-    margin-top: 20px;
-    text-align: center;
+HTML{
+    background-color: blue;
 }
 
-body {
-    background-image: url(img/tree.jpg);
-    background-size:cover;
-    background-repeat:no-repeat;
-    font-family: Arial, Helvetica, sans-serif;
-    
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#line1 {
-    width:100%;
-    border:1px solid gray;
-    margin-top:3px;
-}
-
-
-button {
-    border: 1px solid black;
-    text-align:center;
-    display: inline-block;
-    font-size: 15px;
-    transition-duration: 0.3s;
+body{
+    background-color: white;
+    padding:25px 100px;
+    width:600px;
+    margin: auto;
     border-radius: 25px;
-    background-color: black; 
+    margin-top: 30px;
 }
 
+img{
+    border: 1px solid grey;
+}
 
+.font1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 h2{
-    color: #A8DADC;
-    font-size: 150px;
-    padding: 20px 20px;
-    margin-top: auto;
+    font-size: 30px;
 }
 
-#cal {
-    background-color: #31587A;
-    padding: 40px 60px;
-    text-align: center;
-    font-size: 40px;
-    cursor: pointer;
-    margin-left: 50px;
+a{
+    color: blue;
+    text-decoration: none;
+    cursor:pointer;
 }
 
-#cal:hover {
-    background-color: cornflowerblue;
-    font-size: 70px;
+a:hover{
+    text-decoration: underline;
 }
 
-
-
-  
-
+button{
+    display:inline-block;
+    background-color:maroon;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
