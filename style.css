@@ -56,7 +56,10 @@ h2{
     border-radius: 5px;
 }
 
-
+#cal:hover {
+    background-color: cornflowerblue;
+    font-size: 25px;
+}
 
 #ml {
     background-color: #31587A;
@@ -71,18 +74,29 @@ h2{
 }
 
 
-#cal:hover {
-    background-color: cornflowerblue;
-    font-size: 25px;
-}
-
-
-
 #ml:hover {
     background-color: cornflowerblue;
     font-size: 30px;
 }
 
+
+#li {
+    background-color: #31587A;
+    font-size: 15px;
+    cursor: pointer;
+    transition-duration: 0.3s;
+    border-radius: 25px;
+    margin-left: 25px;
+    margin-top: 25px;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+
+
+#li:hover {
+    background-color: cornflowerblue;
+    font-size: 30px;
+}
 
 
   
