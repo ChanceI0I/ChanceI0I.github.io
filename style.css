@@ -118,5 +118,25 @@ h2{
 }
 
 
+
+#quiz {
+    background-color: #31587A;
+    font-size: 15px;
+    cursor: pointer;
+    transition-duration: 0.3s;
+    border-radius: 25px;
+    margin-left: 25px;
+    margin-top: 55px;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+
+
+#quiz:hover {
+    background-color: cornflowerblue;
+    font-size: 30px;
+}
+
+
   
 
