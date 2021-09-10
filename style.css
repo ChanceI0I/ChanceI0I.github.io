@@ -1,142 +1,25 @@
-h1 {
-    color: #8ECAE6;
-    font-size: 40px;
-    font-weight: 500;
-    margin-top: 20px;
-    text-align: center;
+html {
+    background-image: URL(img/space.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
 }
-
-
 
 body {
-    
-    background:url(img/tree.jpg);
-    background-size:cover;
-    background-repeat:no-repeat;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    
-}
-
-#line1 {
-    width:100%;
-    border:1px solid gray;
-    margin-top:3px;
-}
-
-
-#fp {
-    border: 1px solid black;
-    text-align:center;
-    display: inline-block;
-    font-size: 10px;
-    transition-duration: 0.3s;
+    background-color:  rgba(255, 255, 255, 0.7);
+    width:600px;
     border-radius: 25px;
-    background-color: black; 
+    margin: 80px auto;
+    padding: 30px 40px;
 }
 
-h2{
-    color: #A8DADC;
-    font-size: 70px;
-    padding: 15px 15px;
-    margin-top:10px;
+#pic {
+    opacity: 1;
+    margin-left: 140px;
+    cursor:pointer;
 }
 
-#cal {
-    background-color: #31587A;
-    padding: 5px 25px;
-    font-size: 15px;
-    cursor: pointer;
-    margin-left: 25px;
-    margin-top: 1px;
-    transition-duration: 0.3s;
-    border-radius: 25px;
-    border-radius: 5px;
+#question {
+    font-size: 20px;
+    width: 570px;
 }
-
-#cal:hover {
-    background-color: cornflowerblue;
-    font-size: 25px;
-}
-
-
-#ml {
-    background-color: #31587A;
-    font-size: 15px;
-    cursor: pointer;
-    transition-duration: 0.3s;
-    border-radius: 25px;
-    margin-left: 25px;
-    margin-top: 25px;
-    padding: 5px 25px;
-    border-radius: 5px;
-}
-
-
-#ml:hover {
-    background-color: cornflowerblue;
-    font-size: 30px;
-}
-
-
-#li {
-    background-color: #31587A;
-    font-size: 15px;
-    cursor: pointer;
-    transition-duration: 0.3s;
-    border-radius: 25px;
-    margin-left: 25px;
-    margin-top: 35px;
-    padding: 5px 25px;
-    border-radius: 5px;
-}
-
-
-#li:hover {
-    background-color: cornflowerblue;
-    font-size: 30px;
-}
-
-
-
-#m8 {
-    background-color: #31587A;
-    font-size: 15px;
-    cursor: pointer;
-    transition-duration: 0.3s;
-    border-radius: 25px;
-    margin-left: 25px;
-    margin-top: 45px;
-    padding: 5px 25px;
-    border-radius: 5px;
-}
-
-
-#m8:hover {
-    background-color: cornflowerblue;
-    font-size: 30px;
-}
-
-
-
-#quiz {
-    background-color: #31587A;
-    font-size: 15px;
-    cursor: pointer;
-    transition-duration: 0.3s;
-    border-radius: 25px;
-    margin-left: 25px;
-    margin-top: 55px;
-    padding: 5px 25px;
-    border-radius: 5px;
-}
-
-
-#quiz:hover {
-    background-color: cornflowerblue;
-    font-size: 30px;
-}
-
-
-  
 
