@@ -1,0 +1,46 @@
+HTML{
+    background-color: blue;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: white;
+    padding:25px 100px;
+    width:600px;
+    margin: auto;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+
+img{
+    border: 1px solid grey;
+}
+
+#side_a,#side_b,#hight,#output{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-size: 30px;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    cursor:pointer;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+button{
+    display:inline-block;
+    background-color:maroon;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}

@@ -1,0 +1,53 @@
+html {
+    background-image: url(img/land.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.822);
+    width: 400px;
+    margin: 50px auto;
+    padding: 50px 50px;
+    border-radius: 30px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    background-color: grey;
+    border-radius: 50px;
+}
+
+p {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+ #answer_q1, #answer_q2, #answer_q3, #answer_q4 { 
+    font-size: 15px;
+    margin-bottom: 10px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+button {
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    padding: 5px 70px;
+    
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+button:hover {
+    background-color: gray;
+    transition-duration: 0.3s;  
+}

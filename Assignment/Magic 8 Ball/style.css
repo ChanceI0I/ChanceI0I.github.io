@@ -1,0 +1,25 @@
+html {
+    background-image: URL(img/space.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+body {
+    background-color:  rgba(255, 255, 255, 0.7);
+    width:600px;
+    border-radius: 25px;
+    margin: 80px auto;
+    padding: 30px 40px;
+}
+
+#pic {
+    opacity: 1;
+    margin-left: 140px;
+    cursor:pointer;
+}
+
+#question {
+    font-size: 20px;
+    width: 570px;
+}
+

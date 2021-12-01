@@ -1,0 +1,63 @@
+h1 {
+    color: #8ECAE6;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: -20px;
+    text-align: center;
+}
+
+
+
+body {
+    background-color: black;
+    background-size: 100%;
+    background-repeat:no-repeat;
+    
+    
+}
+
+#line1 {
+    width:100%;
+    border:1px solid gray;
+    margin-top:3px;
+}
+
+
+#fp {
+    border: 1px solid black;
+    text-align:center;
+    display: inline-block;
+    font-size: 2px;
+    transition-duration: 0.3s;
+    border-radius: 25px;
+    background-color: black; 
+}
+
+h2{
+    color: #A8DADC;
+    font-size: 50px;
+    padding: 15px 15px;
+    margin-top:5px;
+    text-align: center;
+}
+
+.link {
+    font-family: fantasy;
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+    padding-left: 20px;
+    cursor: pointer;
+    transition-duration: 0.3s;
+    letter-spacing: 1px;
+}
+
+.link:hover {
+    color: grey;
+    /* font-size: 30px; */
+}
+
+
+
+  
+
