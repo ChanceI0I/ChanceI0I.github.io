@@ -31,7 +31,7 @@
 }
 
 
-a {
+#btn_new {
 	padding: 20px 30px;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -46,7 +46,7 @@ a {
 	2px 2px 8px rgba(0,0,0,0.15);
 	position: absolute;
 } 
-a:hover {
+#btn_new :hover {
 	box-shadow: 
 	inset -2px -2px 8px rgba(255,255,255,1),
 	inset -2px -2px 12px rgba(255,255,255,0.5),
@@ -54,7 +54,7 @@ a:hover {
 	inset 2px 2px 8px rgba(0,0,0,0.15);
 
 }
-a:hover span {
+#btn_new :hover span {
 	display: inline-block;
 	transform: scale(0.98);
 }
