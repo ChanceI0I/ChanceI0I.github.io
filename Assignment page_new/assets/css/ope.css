@@ -1,0 +1,23 @@
+:root {
+  --bot: #ff371c;
+  --alternate-bot-text-color: #1c1c1c;
+}
+
+.button {
+  color: var(--bot);
+  border-color: var(--bot);
+  background-color: transparent;
+  transition: all 0.40s linear;
+}
+
+.button:hover {
+  color: var(--alternate-bot-text-color);
+  background-color: var(--bot);
+  border-color: var(--bot);
+  transform: skewx(10deg);
+  transform: skewY(10deg);
+}
+
+p {
+    margin-bottom: 1rem;
+}
