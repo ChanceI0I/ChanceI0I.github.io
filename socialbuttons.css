@@ -18,7 +18,7 @@
 	 font-size: 1.2em;
 }
  .social-icons i {
-	 color: rgb(0, 116, 224);
+	 color: rgb(255, 255, 255);
 	 position: absolute;
 	 top: 21px;
 	 left: 21px;
@@ -36,8 +36,7 @@
 	 height: 60px;
 	 border-radius: 100%;
 	 display: block;
-	 /* background: linear-gradient(45deg, #00b5f5, #002a8f); */
-	 background: linear-gradient(45deg, rgb(255, 255, 255), #00b5f5);
+	 background: linear-gradient(45deg, #00b5f5, #002a8f);
 	 transition: all 265ms ease-out;
 }
  .social-icons a:hover:before {
@@ -49,8 +48,7 @@
 	 -ms-transform: scale(2.2);
 	 -webkit-transform: scale(2.2);
 	 color: #00b5f5;
-	 /* background: -webkit-linear-gradient(45deg, #00b5f5, #002a8f); */
-	 background: -webkit-linear-gradient(45deg, rgb(255, 255, 255), #00b5f5);
+	 background: -webkit-linear-gradient(45deg, #00b5f5, #002a8f);
 	 -webkit-background-clip: text;
 	 -webkit-text-fill-color: transparent;
 	 transition: all 265ms ease-in;
