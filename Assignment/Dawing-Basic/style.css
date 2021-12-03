@@ -1,0 +1,17 @@
+html {
+    background-color: white;
+}
+
+body {
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+input {
+    border-style: solid 2px;
+    border-color: black;
+}
+
