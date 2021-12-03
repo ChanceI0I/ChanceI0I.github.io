@@ -1,0 +1,27 @@
+#canvas {
+    background-color: rgb(114, 108, 55);
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+    border: 2.5px solid black;
+}
+
+html {
+    background-image: url(img/camouflage.jpg);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#instruction {
+    color: rgb(31, 7, 250);
+    font-family: fantasy;
+    margin-left: 10px;
+}
